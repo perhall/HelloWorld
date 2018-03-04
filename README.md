@@ -7,3 +7,4 @@ First slow steps of learning!
 
 That was a while ago, bt still a bit to twinst here I think ...
 Another change line in Readme-Edit branch, soon to be merged
+Funny they are not seen in the branch view without refresh ??
